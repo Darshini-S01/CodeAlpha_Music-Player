@@ -20,6 +20,3 @@ A simple web-based music player with dark/light mode and playlist support.
    ```
 2. Add your songs in the `/songs` folder (replace `song1.mp3`, `song2.mp3`, `song3.mp3`).
 3. Open `index.html` in your browser.
-
-## Demo
-Add a screenshot or a live demo link here.
